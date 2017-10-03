@@ -1,5 +1,5 @@
 ### よく分かるかどうかは人によるけど知ってほしいと思う「個人的な"こだわり"」PA講座
-## Powered by NaFFF そばかも from Soba music.
+`Powered by NaFFF そばかも from Soba music.`
 ---
 ### まずはじめに…
 ## なんでPAやってんの？
